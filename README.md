@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Damodar</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Full Stack Developer | 🚀 Building & Learning Every Day
-</h3>
+# 👋 Hey, I'm Damodar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Web+Developer;Data+Science+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+### Full Stack Developer • Problem Solver • Tech Explorer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Code+%F0%9F%92%BB;Building+Clean+%26+Scalable+Applications+%F0%9F%9A%80;Exploring+Python+%26+Web+Technologies+%F0%9F%8C%90;Learning+Something+New+Every+Day+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=damodar15&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
+
+</div>
