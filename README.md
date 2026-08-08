@@ -26,15 +26,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=damodar15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Damodar's GitHub Stats"
-    height="170"
-  />
-
-  <img
     src="https://streak-stats.demolab.com?user=damodar15&theme=tokyonight&hide_border=true"
-    alt="Damodar's GitHub Streak"
-    height="170"
+    alt="Damodar GitHub Streak"
   />
 </p>
 
