@@ -11,3 +11,12 @@
 <img src="https://komarev.com/ghpvc/?username=damodar15&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
 
 </div>
+
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,git,github,vscode" />
+</p>
+
+---
