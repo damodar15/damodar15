@@ -11,14 +11,13 @@
 
 ---
 
-<!-- ABOUT SECTION -->
 ## 🎯 About Me
 
 ```python
 class Damodar:
     def __init__(self):
         self.name = "Damodar Bhattarai"
-        self.location = "Helsinki, Finland 🇮"
+        self.location = "Helsinki, Finland 🇫🇮"
         self.email = "damodar.bhattarai19@gmail.com"
         self.roles = ["Full Stack Developer", "Data Analyst", "Problem Solver"]
         self.experience = {
@@ -26,11 +25,13 @@ class Damodar:
             "data_analysis": "1.5+ years"
         }
         self.passion = "Building scalable applications & extracting insights from data"
+
 <div align="center">
 <a href="https://damodar15.github.io/portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/_Visit_My_Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 </div>
+
 🛠️ Tech Stack
 <table align="center">
 <tr>
@@ -110,7 +111,7 @@ class Damodar:
 <table>
 <tr>
 <td>
-<b> Master's in Data Analysis</b><br>
+<b>🎓 Master's in Data Analysis</b><br>
 <i>2023 - 2025</i><br>
 <ul>
 <li>Statistical Analysis</li>
@@ -142,7 +143,7 @@ ML-powered forecasting with 94% accuracy<br>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white">
 </td>
 <td>
-<b> E-Commerce Platform</b><br>
+<b>🛒 E-Commerce Platform</b><br>
 Full-stack solution with real-time inventory<br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
@@ -193,4 +194,3 @@ Thanks for visiting my profile! 🎉
 <img src="https://profile-counter.glitch.me/damodar15/count.svg" alt="Visitor Count">
 
 </div>
-```
