@@ -1,6 +1,5 @@
-<!-- HEADER SECTION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Damodar+Bhattarai+%F0%9F%91%8B;Full+Stack+Developer+%26+Data+Analyst;Building+Scalable+Web+Applications;Turning+Data+into+Insights" alt="Damodar Bhattarai">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Damodar;Full+Stack+Developer+%26+Data+Analyst;Turning+Data+into+Insights" alt="Damodar Bhattarai">
 </h1>
 
 <p align="center">
@@ -13,11 +12,11 @@
 
 ## 🎯 About Me
 
-```python
+<!--```python
 class Damodar:
     def __init__(self):
         self.name = "Damodar Bhattarai"
-        self.location = "Helsinki, Finland 🇫🇮"
+        self.location = "Helsinki, Finland"
         self.email = "damodar.bhattarai19@gmail.com"
         self.roles = ["Full Stack Developer", "Data Analyst", "Problem Solver"]
         self.experience = {
@@ -25,14 +24,15 @@ class Damodar:
             "data_analysis": "1.5+ years"
         }
         self.passion = "Building scalable applications & extracting insights from data"
-
+```
+-->
 <div align="center">
 <a href="https://damodar15.github.io/portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/_Visit_My_Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 </div>
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 <table align="center">
 <tr>
 <td align="center"><b>Frontend</b></td>
@@ -71,33 +71,33 @@ class Damodar:
 </tr>
 </table>
 
-📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=damodar15&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=damodar15&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats">
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodar15&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damodar15&layout=compact&theme=react&hide_border=true" alt="Top Languages">
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=damodar15&theme=react&hide_border=true" alt="Streak Stats" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=damodar15&theme=react&hide_border=true" alt="Streak Stats">
 </td>
 </tr>
 </table>
+-->
 
-📈 Activity
+<!--## 📈 Activity
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damodar15&theme=react" alt="Profile Summary">
 </p>
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=damodar15&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution+Graph" alt="Activity Graph">
 </p>
-
-🏆 Certifications (IBM & Coursera)
+-->
+## 🏆 Certifications (IBM & Coursera)
 <p align="center">
 <img src="https://img.shields.io/badge/Data_Visualization_with_Python-05b4d4?style=for-the-badge&logo=ibm&logoColor=white" alt="Data Visualization">
 <img src="https://img.shields.io/badge/Data_Analysis_with_Python-05b4d4?style=for-the-badge&logo=ibm&logoColor=white" alt="Data Analysis">
@@ -107,7 +107,7 @@ class Damodar:
 <img src="https://img.shields.io/badge/Tools_for_Data_Science-05b4d4?style=for-the-badge&logo=ibm&logoColor=white" alt="Tools for DS">
 </p>
 
-🎓 Education
+## 🎓 Education
 <table>
 <tr>
 <td>
@@ -133,7 +133,7 @@ class Damodar:
 </tr>
 </table>
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 <table>
 <tr>
 <td>
@@ -171,6 +171,7 @@ Collaborative tool with Kanban boards<br>
 </a>
 </p>
 
+
 📫 Connect With Me
 <p align="center">
 <a href="mailto:damodar.bhattarai19@gmail.com" target="_blank">
@@ -187,11 +188,14 @@ Collaborative tool with Kanban boards<br>
 </a>
 </p>
 
+
 <div align="center">
 
 ⭐ If you find my work interesting, don't forget to star my repositories!
 Thanks for visiting my profile! 🎉
-<img src="https://profile-counter.glitch.me/damodar15/count.svg" alt="Visitor Count">
-
 </div>
-```
+
+
+
+
+
